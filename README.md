@@ -17,7 +17,7 @@
 Clone this repository using the command:
 
 ```
-git clone https://github.com/alineviana/rocketmovies.git
+git clone https://github.com/alineviana/api-rocketmovies.git
 ```
 Install the dependencies:
 
