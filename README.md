@@ -2,14 +2,12 @@
 
 - Desafio Programa Explorer da Rocketseat
 
-<br>
 
 ## 🎯 Projeto
 - Aplicação em Node.js onde o usuário cadastra um filme, preenchendo com algumas informações (nome, descrição, nota) e cria tags relacionadas a ele.
 
 - Gerenciamento de usuários, notas e tags.
 
-<br>
 
 ## 📖 Guia de instalação
 Clone o repositório executando o comando:
@@ -23,7 +21,6 @@ Instale as dependências:
 npm install
 ```
 
-<br>
 
 ## 🚀 Inicializando
 Para inicializar o servidor, execute o comando:
@@ -34,7 +31,6 @@ npm start
 
 - Conecte na API utilizando a porta 3333.
 
-<br>
 
 ## 🖥️ Tecnologias
 
@@ -44,9 +40,8 @@ npm start
 * [Knex.js](https://knexjs.org/)
 * [Jest](https://jestjs.io/pt-BR/) 
 
-<br>
 
-> ### 👩‍💻 Author
+## 👩‍💻 Author
 
 <table align="left">
     <tr align="left">
