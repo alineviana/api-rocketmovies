@@ -1,25 +1,23 @@
 # Rocketmovies 🎥🎞️📽️🎬🎦
 
-> ### Introduction
-
-- Rocketseat Explorer Program Challenge
-
-- Application in Node.js where the user registers a movie, fills in information about it (name, description and note) and adds tags.
+- Desafio Programa Explorer da Rocketseat
 
 <br>
 
-> ### 🎯 Features
-- Users, Notes and Tags management
+## 🎯 Projeto
+- Aplicação em Node.js onde o usuário cadastra um filme, preenchendo com algumas informações (nome, descrição, nota) e cria tags relacionadas a ele.
+
+- Gerenciamento de usuários, notas e tags.
 
 <br>
 
-> ### 📖 Installation guide
-Clone this repository using the command:
+## 📖 Guia de instalação
+Clone o repositório executando o comando:
 
 ```
 git clone https://github.com/alineviana/api-rocketmovies.git
 ```
-Install the dependencies:
+Instale as dependências:
 
 ```
 npm install
@@ -27,23 +25,24 @@ npm install
 
 <br>
 
-> ### 🚀 Initializing
-To initialize the server, run the command:
+## 🚀 Inicializando
+Para inicializar o servidor, execute o comando:
 
 ```
 npm start
 ```
 
-Connect on the API using port 3333.
+- Conecte na API utilizando a porta 3333.
 
 <br>
 
-> ### 🖥️ Technologies used
+## 🖥️ Tecnologias
 
 * [Node.js](https://nodejs.org/en/) 
 * [Express.js](https://expressjs.com/pt-br/) 
 * [SQLite](https://www.sqlite.org/index.html) 
-* [Knex.js](https://knexjs.org/) 
+* [Knex.js](https://knexjs.org/)
+* [Jest](https://jestjs.io/pt-BR/) 
 
 <br>
 
